@@ -1,8 +1,8 @@
 {
-    "User": {
+    "User": [
         "name": "Нагайцев Александр Евгеньевич",
         "role": "isAdministrator",
         "function": "Ведущий специалист",
         "avatar": "https://randomuser.me/api/portraits/men/43.jpg",
-    }
+    ]
 }
