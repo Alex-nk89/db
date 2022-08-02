@@ -10,5 +10,11 @@
         "name": "Завод БК",
         "type": "folder",
         "parentid": "0"
+    },
+    {
+        "id": "2",
+        "name": "Завод ДБО",
+        "type": "folder",
+        "parentid": "0"
     }]
 }
