@@ -4,5 +4,11 @@
         "role": "isAdministrator",
         "avatar": "https://randomuser.me/api/portraits/men/43.jpg",
         "function": "Ведущий специалист"
-    }
+    },
+    "Menu": [{
+        "id": "1",
+        "name": "Завод БК",
+        "type": "folder",
+        "parentid": "0"
+    }]
 }
