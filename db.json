@@ -20,13 +20,13 @@
     {
         "id": 3,
         "name": "График",
-        "type": "graphic",
+        "type": "chart",
         "parentid": 1
      },
      {
         "id": 2,
         "name": "График 2",
-        "type": "graphic",
+        "type": "chart",
         "parentid": 1
      }]
 }
