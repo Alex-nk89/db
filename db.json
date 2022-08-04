@@ -16,5 +16,17 @@
         "name": "Завод ДБО",
         "type": "folder",
         "parentid": 0
-    }]
+    },
+    {
+        "id": 3,
+        "name": "График",
+        "type": "graphic",
+        "parentid": 1
+     },
+     {
+        "id": 2,
+        "name": "График 2",
+        "type": "graphic",
+        "parentid": 1
+     }]
 }
